@@ -3,12 +3,12 @@ Java-HashTable-Chaining-LinkedLists
 
 Another nice project from java language, HashTable with chaining linkedlists</br>
 #Classes:<br>
-Node
-Student
-HashList
-List
-Read
-Main
+Node<br>
+Student<br>
+HashList<br>
+List<br>
+Read<br>
+Main<br>
 
 This project it's to:
 
