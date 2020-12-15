@@ -2,7 +2,7 @@
 Java-HashTable-Chaining-LinkedLists
 
 Another nice project from java language, HashTable with chaining linkedlists</br>
-#Classes:
+#Classes:<br>
 Node
 Student
 HashList
